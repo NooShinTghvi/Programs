@@ -1,0 +1,9 @@
+venv
+.idea
+.ipynb_checkpoints
+MySQL.py
+MongoDB.py
+Json.py
+GUI.py
+Sending Email using SMTP.py
+Untitled.ipynb
