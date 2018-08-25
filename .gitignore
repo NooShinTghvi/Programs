@@ -1,8 +1,8 @@
 venv
 .idea
 .ipynb_checkpoints
-MySQL.py
 MongoDB.py
-Json.py
-GUI.py
+pA.py
+pB.py
+pC.py
 Sending Email using SMTP.py
