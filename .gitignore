@@ -1,8 +1,13 @@
-venv
 .idea
 .ipynb_checkpoints
+__pycache__
+venv
 pA.py
 pB.py
 pC.py
 MongoDB.py
 Sending Email using SMTP.py
+database.bak
+database.dat
+database.dir
+movies.xml
