@@ -6,3 +6,4 @@ Each branch has a small program.
 
  - Jupyter: some tutorial
  - TelegramChanel: how to get data from telegram
+ - [Quera](https://quera.ir/dashboard/)
