@@ -3,6 +3,7 @@
 Each branch has a small program.
 
 ## Branches
-
- - Jupyter: some tutorial
- - TelegramChanel: how to get data from telegram
+   - Jupyter: some tutorial
+   - TelegramChanel: how to get data from telegram
+   - Quera
+   - Decision Tree
